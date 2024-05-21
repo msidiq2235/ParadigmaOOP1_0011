@@ -24,4 +24,4 @@ int main() {
 	mahasiswa mhs(12, "Ling", 90.5);
 
 	return 0;
-}
+} 

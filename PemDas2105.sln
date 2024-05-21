@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemDas2105", "PemDas2105\Pe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inisialisasi", "Inisialisasi\Inisialisasi.vcxproj", "{5639E229-41B4-4C1D-9751-785923FD4757}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Komposisi", "Komposisi\Komposisi.vcxproj", "{E38E7E73-0D43-4F89-84EC-6B95F57A1660}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5639E229-41B4-4C1D-9751-785923FD4757}.Release|x64.Build.0 = Release|x64
 		{5639E229-41B4-4C1D-9751-785923FD4757}.Release|x86.ActiveCfg = Release|Win32
 		{5639E229-41B4-4C1D-9751-785923FD4757}.Release|x86.Build.0 = Release|Win32
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Debug|x64.ActiveCfg = Debug|x64
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Debug|x64.Build.0 = Debug|x64
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Debug|x86.ActiveCfg = Debug|Win32
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Debug|x86.Build.0 = Debug|Win32
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Release|x64.ActiveCfg = Release|x64
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Release|x64.Build.0 = Release|x64
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Release|x86.ActiveCfg = Release|Win32
+		{E38E7E73-0D43-4F89-84EC-6B95F57A1660}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
